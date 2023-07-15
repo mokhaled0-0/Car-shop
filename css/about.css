@@ -1,0 +1,41 @@
+.title{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom:0.4em ;
+    color:aliceblue;
+    
+}
+
+.par{
+    margin-top: 2em;
+    padding: 2em;
+    color:aliceblue;
+}
+.body{
+    /* border: solid green 2px; */
+    width: 30em;
+    display: block;
+    margin: auto;
+    margin-top: 2.5em;
+    margin-bottom: 200px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 1em;
+    
+    
+
+}
+.body img{
+    margin-top: 5em;
+}
+
+body{
+    background-image: url("چگونه\ فضای\ اشغال\ شده\ در\ حافظه\ گوشی\ اندرویدی\ را\ کنترل\ کنیم؟.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+

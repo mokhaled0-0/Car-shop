@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.search{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.pack{
+    /* 
+    
+    /*
+    border: solid 0.5em black; */ 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 5em; 
+    width: 30rem;
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    border-radius:5em ;
+    background-color: rgba(255, 255, 255, 0.6   );
+    
+   
+    text-align: center;
+}
+body{
+    background-image: url("RFACTOR\ Big\ Smoke\ Drifting\ \(episode\ 4\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

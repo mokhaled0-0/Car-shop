@@ -1,0 +1,29 @@
+.form {
+    margin-top: 0.5;
+    margin-left: 70em;
+}
+
+
+/* .ss{
+    background-color: white;
+    border-radius: 20px;
+} */
+
+.tips {
+    padding-left: 1em;
+    text-transform: capitalize;
+    color: whitesmoke;
+}
+
+.tip {
+    padding-left: 1em;
+    /* color: antiquewhite; */
+}
+
+.carousel-item img {
+    margin: auto;
+}
+
+#carouselExampleDark {
+    margin-top: 2em;
+}
